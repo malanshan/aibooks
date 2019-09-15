@@ -1,6 +1,6 @@
 # coding=utf8
 """
-文本分类。
+构建CNN文本分类模型。
 """
 import tensorflow as tf
 
